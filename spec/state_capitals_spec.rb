@@ -1,4 +1,5 @@
 describe 'State Capitals' do
+
   before :each do
     @states = {
       'Oregon' => 'OR',
